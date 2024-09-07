@@ -1,0 +1,17 @@
+.list {
+  list-style: none;
+  padding-left: 50px;
+}
+.item {
+  margin-bottom: 20px;
+  color: black;
+}
+.dscr {
+  padding: 5px 10px;
+  color: white;
+}
+.message {
+  padding: 20px 0px 20px 70px;
+  font-size: 20px;
+  color: bisque;
+}

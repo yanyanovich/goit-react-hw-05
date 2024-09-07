@@ -1,0 +1,54 @@
+.mainContent {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 0 10px;
+}
+.mainTitle {
+  font-size: 36px;
+  font-weight: 700;
+  text-decoration: underline;
+  margin-bottom: 10px;
+  color: gold;
+}
+.title {
+  color: black;
+}
+.dscr {
+  padding: 5px 10px;
+  margin-bottom: 5px;
+}
+.addContent {
+  display: flex;
+  align-items: first baseline;
+  gap: 25px;
+  padding-left: 70px;
+}
+.addInfo {
+  color: black;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+.list {
+  display: flex;
+  gap: 40px;
+  padding-left: 40px;
+  list-style: square;
+  margin-bottom: 16px;
+}
+.item {
+  color: #fff;
+}
+.item:hover {
+  color: black;
+  text-decoration: underline;
+}
+img {
+  width: 80%;
+  height: 80%;
+  max-width: 50%;
+  max-height: 50%;
+}
+a:hover {
+  color: black;
+}
